@@ -4,7 +4,7 @@
  <title>ShellDone</title>
  <link href="http://shelldone.com/atom.xml" rel="self"/>
  <link href="http://shelldone.com/"/>
- <updated>2014-05-13T12:01:03+08:00</updated>
+ <updated>2014-05-13T12:33:09+08:00</updated>
  <id>http://shelldone.com</id>
  <author>
    <name>ShellDone</name>
@@ -17,7 +17,7 @@
    <link href="http://shelldone.com/essay/2014/05/12/hello-world/"/>
    <updated>2014-05-12T00:00:00+08:00</updated>
    <id>http://shelldone.com/essay/2014/05/12/hello-world</id>
-   <content type="html">&lt;p&gt;OK,may be you have guessed that I am a programmer.Yes, I am.&lt;br&gt;
+   <content type="html">&lt;p&gt;OK,may be you have guessed that I am a programmer.Yes, you are right.&lt;br&gt;
 I am glad that my blog has built finished.This blog is build by jekyll and themed by poole, and I write this by Sublime Text 2 With MarkDown Preview Plugin.When I know GitHub has supported jekyll, I decided to change my blog to it in a second.It&amp;#39;s so charming.I love write blog in this way,it feels so cool!As you know, my blog is hosted by GitHub.Com,so anyone of you can visited it speedly.&lt;br&gt;
 In the next days,I will write blog here,May be mostly write in chinese.So,the end.  &lt;/p&gt;
 
