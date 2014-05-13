@@ -12,8 +12,8 @@ description:      '<a href="https://twitter.com/gaoxudong" target="_blank">@gaox
 url:              http://shelldone.com
 domain:            shelldone.com
 author:
-  name:           'ShellDone'
-  url:            http://weibo.com/shelldone
+  name:           'gaoxudong'
+  url:            https://twitter.com/gaoxudong
 
 paginate:         5
 
@@ -22,4 +22,3 @@ version:          1.0.0
 
 #github:
 #  repo:           https://github.com/shelldonegao/blog
-published: false
