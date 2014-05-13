@@ -1,7 +1,8 @@
 # Dependencies
 markdown:         redcarpet
 pygments:         true
-
+gems:
+  - jekyll-sitemap
 # Permalinks
 permalink:        pretty
 
@@ -10,7 +11,7 @@ title:            ShellDone
 tagline:          'Tech & Life'
 description:      '<a href="https://twitter.com/gaoxudong" target="_blank">@gaoxudong</a><p>Blogger of ShellDone.Com</p>'
 url:              http://shelldone.com
-domain:            shelldone.com
+domain:            ShellDone.Com
 author:
   name:           'gaoxudong'
   url:            https://twitter.com/gaoxudong
