@@ -4,7 +4,7 @@
  <title>ShellDone</title>
  <link href="http://shelldone.com/atom.xml" rel="self"/>
  <link href="http://shelldone.com/"/>
- <updated>2014-05-12T15:25:33+08:00</updated>
+ <updated>2014-05-13T12:01:03+08:00</updated>
  <id>http://shelldone.com</id>
  <author>
    <name>ShellDone</name>
@@ -13,12 +13,19 @@
 
  
  <entry>
-   <title>中文标题测试</title>
-   <link href="http://shelldone.com/2014/05/12/hello-world/"/>
+   <title>Hello World!</title>
+   <link href="http://shelldone.com/essay/2014/05/12/hello-world/"/>
    <updated>2014-05-12T00:00:00+08:00</updated>
-   <id>http://shelldone.com/2014/05/12/hello-world</id>
-   <content type="html">&lt;p&gt;中文标题是否支持呢，我们测试一下看看。&lt;br&gt;
- 希望也可以完美支持中文标题。&lt;/p&gt;
+   <id>http://shelldone.com/essay/2014/05/12/hello-world</id>
+   <content type="html">&lt;p&gt;OK,may be you have guessed that I am a programmer.Yes, I am.&lt;br&gt;
+I am glad that my blog has built finished.This blog is build by jekyll and themed by poole, and I write this by Sublime Text 2 With MarkDown Preview Plugin.When I know GitHub has supported jekyll, I decided to change my blog to it in a second.It&amp;#39;s so charming.I love write blog in this way,it feels so cool!As you know, my blog is hosted by GitHub.Com,so anyone of you can visited it speedly.&lt;br&gt;
+In the next days,I will write blog here,May be mostly write in chinese.So,the end.  &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;no zuo no die why you try,&lt;br&gt;
+no try no high,give me five.&lt;br&gt;
+--just do it!&lt;/p&gt;
+&lt;/blockquote&gt;
 </content>
  </entry>
  

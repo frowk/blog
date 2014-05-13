@@ -8,9 +8,9 @@ permalink:        pretty
 # Setup
 title:            ShellDone
 tagline:          'Tech & Life'
-description:      'Hello,World! Here is my personal weblog about technology and life.'
+description:      '<a href="https://twitter.com/gaoxudong" target="_blank">@gaoxudong</a><p>Blogger of ShellDone.Com</p>'
 url:              http://shelldone.com
-
+domain:            shelldone.com
 author:
   name:           'ShellDone'
   url:            http://weibo.com/shelldone
@@ -21,4 +21,5 @@ paginate:         5
 version:          1.0.0
 
 #github:
-#  repo:           https://github.com/poole/lanyon
+#  repo:           https://github.com/shelldonegao/blog
+published: false
