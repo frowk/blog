@@ -6,14 +6,14 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            ShellDone
-tagline:          'Tech & Life'
-description:      'Hello,World! Here is my personal weblog about technology and life.'
+title:            浮落客
+tagline:          '开放的群组博客'
+description:      '一个简单的群组博客，我们追求独立和自由，我们与体制和框架做斗争'
 url:              http://shelldone.com
 
 author:
-  name:           'ShellDone'
-  url:            http://weibo.com/shelldone
+  name:           '远果果'
+  url:            http://weibo.com/inkkxl
 
 paginate:         5
 
